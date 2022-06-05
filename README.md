@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christwill Orhue
--👀 I’m interested in Data Analysis, SQL, Tableau
+- 👀 I’m interested in Data Analysis, SQL, Tableau
 - 🌱 I Completed Udacity's Data Analysis Nano Degree Program
 - 💞️ I’m looking to collaborate on Data related topics
 - 📫 How to reach me at christwillorhue7@gmail.com  
